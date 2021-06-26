@@ -68,7 +68,7 @@
  	 	 	 	"eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Your personal computer, although its a little outdated, it could get the job done with enough patient",
+ 	 	 	 	"trans": "Tu computadora personal, aunque está algo anticuada, con la suficiente paciencia puede cumplir con su trabajo",
  	 	 	 	"eng": "Your personal computer, although its a little outdated, it could get the job done with enough patient"
  	 	 	}
  	 	},
@@ -86,7 +86,7 @@
  	 	},
  	 	"equipmentUpgrade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Station",
+ 	 	 	 	"trans": "Estación de Calibrado",
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
@@ -96,21 +96,21 @@
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	 	"trans": "Puesto Comercial de Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family run trading shop that lets you trade with what they have found while scavenging",
+ 	 	 	 	"trans": "Un negocio familiar que te permite comerciar con lo que ellos han encontrado mientras hurgaban",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	}
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Automatic Recycler",
+ 	 	 	 	"trans": "Recicladora Automática",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "Una recicladora completamente automatizada, capaz de reciclar artículos hasta su forma más básica de chatarra",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -209,7 +209,7 @@
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquarter",
+ 	 	 	 	 	"trans": "Ir a la sede central de la Banda",
  	 	 	 	 	"eng": "Go to gang headquarter"
  	 	 	 	}
  	 	 	}
@@ -269,7 +269,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Return to ${mainHubName}",
+ 	 	 	 	 	"trans": "Regresar a ${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
@@ -346,7 +346,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentStationName"
  	 	 	 	],
- 	 	 	 	"trans": "go to ${segmentStationName}",
+ 	 	 	 	"trans": "Ir a ${segmentStationName}",
  	 	 	 	"eng": "go to ${segmentStationName}"
  	 	 	}
  	 	},
@@ -356,7 +356,7 @@
  	 	 	 	"eng": "Gang Headquarter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation",
+ 	 	 	 	"trans": "[Gang]\r\n        Una sede central para que tú y los miembros de tu banda planeen y ejecuten su próxima operación",
  	 	 	 	"eng": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation"
  	 	 	}
  	 	}
@@ -734,29 +734,29 @@
  	 	},
  	 	"primaryWeapon": {
  	 	 	"name": {
- 	 	 	 	"trans": "Primary Weapon",
+ 	 	 	 	"trans": "Arma Principal",
  	 	 	 	"eng": "Primary Weapon"
  	 	 	}
  	 	},
  	 	"secondary": {
  	 	 	"name": {
- 	 	 	 	"trans": "Special Weapon",
+ 	 	 	 	"trans": "Arma Especial",
  	 	 	 	"eng": "Special Weapon"
  	 	 	}
  	 	},
  	 	"tertiary": {
  	 	 	"name": {
- 	 	 	 	"trans": "Destructive Weapon",
+ 	 	 	 	"trans": "Arma Destructiva",
  	 	 	 	"eng": "Destructive Weapon"
  	 	 	}
  	 	},
  	 	"lootBox1": {
  	 	 	"name": {
- 	 	 	 	"trans": "locked container",
+ 	 	 	 	"trans": "contenedor cerrado",
  	 	 	 	"eng": "locked container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container",
+ 	 	 	 	"trans": "Un contenedor reforzado con una cerradura de encriptación biométrica, parece que contiene artículos importantes dentro.\r\n        Por suerte la microcomputadora a bordo corre un firmware anticuado, donde un exploit es possible, ve a [Terminal] para abrir este contenedor",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -792,7 +792,7 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Supply Crate [Gang]",
+ 	 	 	 	"trans": "Caja de Suministros [Banda]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
@@ -872,11 +872,11 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Bolsa Vieja",
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped.",
+ 	 	 	 	"trans": "Una antigua bolsa olvidada, \r\n        hay una extraña rana caricaturesca con una gran boca y labios rojos dibujada en su interior,\r\n        el significado del ominoso dibujo es desconocido, pero viene bien para guardar algún pequeño objeto en ella.\r\n        aumenta el espacio del inventario cuando está equipada.",
  	 	 	 	"eng": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
@@ -892,11 +892,11 @@
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Mochila del Explorador",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped",
+ 	 	 	 	"trans": "Una vieja mochila morada de 'Explorador' con aspecto de jardín infantil, tiene una etiqueta con el nombre de la antigua dueña \"Dora\" escrito en ella, te ves fabuloso usándola.\r\n        aumenta el espacio del inventario cuando está equipada",
  	 	 	 	"eng": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
@@ -968,11 +968,11 @@
  	 	},
  	 	"reverseEngineer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Usar ingeniería inversa en restos tecnológicos para mejorar tu Rango de Impresión. \r\n,        Tendrás que sacrificar algunos restos tecnológicos.",
+ 	 	 	 	"trans": "Restos de Ingeniería Inversa",
  	 	 	 	"eng": "Reverse Engineer Scraps"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap.",
+ 	 	 	 	"trans": "Usa ingeniería inversa en restos tecnológicos para mejorar tu Rango de Impresión. \r\n        Tendrás que sacrificar algunos restos tecnológicos.",
  	 	 	 	"eng": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap."
  	 	 	}
  	 	},
@@ -1004,11 +1004,11 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gather Clan Resource",
+ 	 	 	 	"trans": "Recolectar Recursos de Clan",
  	 	 	 	"eng": "Gather Clan Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Help gather and manage needed resources for your clan",
+ 	 	 	 	"trans": "Ayuda a recolectar y gestionar los recursos necesarios para tu Clan",
  	 	 	 	"eng": "Help gather and manage needed resources for your clan"
  	 	 	}
  	 	},
@@ -1114,7 +1114,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "invade ${zoneName}",
+ 	 	 	 	"trans": "invadir ${zoneName}",
  	 	 	 	"eng": "invade ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -1123,7 +1123,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low",
+ 	 	 	 	"trans": "Nivel Recomendado:　${maxLevel}+ con ayuda\r\n                    ${expMultiplier}x más Experiencia!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low"
  	 	 	}
  	 	}
@@ -1352,7 +1352,7 @@
  	 	 	 	"eng": "gang"
  	 	 	},
  	 	 	"mail": {
- 	 	 	 	"trans": "mail",
+ 	 	 	 	"trans": "Correo",
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
@@ -1420,13 +1420,13 @@
  	 	},
  	 	"captcha": {
  	 	 	"title": {
- 	 	 	 	"trans": "Enter system passcode to proceed",
+ 	 	 	 	"trans": "Introduce el código de acceso del sistema para continuar",
  	 	 	 	"eng": "Enter system passcode to proceed"
  	 	 	}
  	 	},
  	 	"deathScreen": {
  	 	 	"topTitleLeft": {
- 	 	 	 	"trans": "fatal injury",
+ 	 	 	 	"trans": "lesión mortal",
  	 	 	 	"eng": "fatal injury"
  	 	 	},
  	 	 	"topTitleRight": {
@@ -1442,7 +1442,7 @@
  	 	 	 	"eng": "Critical Error: Neural Link Disconnected"
  	 	 	},
  	 	 	"progressBarTitle": {
- 	 	 	 	"trans": "Re-establishing connection",
+ 	 	 	 	"trans": "Restableciendo Conexión",
  	 	 	 	"eng": "Re-establishing connection"
  	 	 	}
  	 	},
@@ -1455,27 +1455,27 @@
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please enter amount you want to deposit",
+ 	 	 	 	 	"trans": "Por favor ingresa la cantidad que quieres depositar",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed",
+ 	 	 	 	 	"trans": "${amount} bitcoin será depositado en tu cuenta de banda, esto no se puede revertir",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Deposit Bitcoin",
+ 	 	 	 	"trans": "Depositar Bitcoin",
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Gang Level",
+ 	 	 	 	"trans": "Nivel de Banda",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
- 	 	 	 	"trans": "Resource",
+ 	 	 	 	"trans": "Recurso",
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
@@ -1483,7 +1483,7 @@
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "members",
+ 	 	 	 	"trans": "Miembros",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"nextUpkeepDate": {
@@ -1502,23 +1502,23 @@
  	 	 	 	"eng": "Insufficient Found"
  	 	 	},
  	 	 	"insufficientResource": {
- 	 	 	 	"trans": "Insufficient Resource",
+ 	 	 	 	"trans": "Recurso Insuficiente",
  	 	 	 	"eng": "Insufficient Resource"
  	 	 	},
  	 	 	"members": {
- 	 	 	 	"trans": "Members",
+ 	 	 	 	"trans": "Miembros",
  	 	 	 	"eng": "Members"
  	 	 	}
  	 	},
  	 	"equipmentDisplay": {
  	 	 	"empty": {
- 	 	 	 	"trans": "Empty",
+ 	 	 	 	"trans": "Vacío",
  	 	 	 	"eng": "Empty"
  	 	 	}
  	 	},
  	 	"fab": {
  	 	 	"dungeonList": {
- 	 	 	 	"trans": "Dungeon List",
+ 	 	 	 	"trans": "Lista de Mazmorras",
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
@@ -1526,15 +1526,15 @@
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Premium Shop",
+ 	 	 	 	"trans": "Tienda Premium",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
- 	 	 	 	"trans": "Friend List",
+ 	 	 	 	"trans": "Lista de Amigos",
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
- 	 	 	 	"trans": "Leader Board",
+ 	 	 	 	"trans": "Tabla de Clasificación",
  	 	 	 	"eng": "Leader Board"
  	 	 	},
  	 	 	"skipQueue": {
@@ -1542,7 +1542,7 @@
  	 	 	 	"eng": "Skip Queue"
  	 	 	},
  	 	 	"settings": {
- 	 	 	 	"trans": "Settings",
+ 	 	 	 	"trans": "Configuración",
  	 	 	 	"eng": "Settings"
  	 	 	}
  	 	},
@@ -1558,19 +1558,19 @@
  	 	 	 	}
  	 	 	},
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Recycle Item",
+ 	 	 	 	"trans": "Reciclar Item",
  	 	 	 	"eng": "Recycle Item"
  	 	 	},
  	 	 	"selectAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please select amount",
+ 	 	 	 	 	"trans": "Por favor selecciona la cantidad",
  	 	 	 	 	"eng": "Please select amount"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "This will take ${timeStr}",
+ 	 	 	 	 	"trans": "Esto tardará ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
@@ -1588,21 +1588,21 @@
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Calibration Success",
+ 	 	 	 	 	"trans": "Calibración Exitosa",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "No error detected",
+ 	 	 	 	 	"trans": "Ningún error detectado",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Are you sure you want to leave this dungeon?",
+ 	 	 	 	 	"trans": "¿Estás seguro de que quieres dejar esta mazmorra?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "You will not be able to enter this dungeon instance again",
+ 	 	 	 	 	"trans": "No serás capaz de entrar a esta instancia de la mazmorra de nuevo",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1624,31 +1624,31 @@
  	 	 	},
  	 	 	"activating": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Processing",
+ 	 	 	 	 	"trans": "Procesando",
  	 	 	 	 	"eng": "Processing"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Decrypting shard",
+ 	 	 	 	 	"trans": "Desencriptando fragmentos",
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	}
  	 	 	},
  	 	 	"noEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "equipment not found",
+ 	 	 	 	 	"trans": "equipamiento no encontrado",
  	 	 	 	 	"eng": "equipment not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Select an equipment to continue",
+ 	 	 	 	 	"trans": "Selecciona un equipamiento para continuar",
  	 	 	 	 	"eng": "Select an equipment to continue"
  	 	 	 	}
  	 	 	},
  	 	 	"haveEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Compatible Item Identified",
+ 	 	 	 	 	"trans": "Item Compatible Identificado",
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "All system ready",
+ 	 	 	 	 	"trans": "Todo el sistema listo",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
@@ -1673,13 +1673,13 @@
  	 	},
  	 	"linkPage": {
  	 	 	"forum": {
- 	 	 	 	"trans": "Official Forum",
+ 	 	 	 	"trans": "Foro oficial",
  	 	 	 	"eng": "Official Forum"
  	 	 	}
  	 	},
  	 	"noPrintableCaches": {
  	 	 	"title": {
- 	 	 	 	"trans": "Equipment Cache not found",
+ 	 	 	 	"trans": "Cache de equipamiento no econtrado",
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
@@ -1710,11 +1710,11 @@
  	 	 	"eng": " No secret key"
  	 	},
  	 	"globalEffects": {
- 	 	 	"trans": "Global Effects",
+ 	 	 	"trans": "Efectos Globales",
  	 	 	"eng": "Global Effects"
  	 	},
  	 	"confirm": {
- 	 	 	"trans": "Confirm",
+ 	 	 	"trans": "Confirmar",
  	 	 	"eng": "Confirm"
  	 	},
  	 	"requires": {
@@ -1726,15 +1726,15 @@
  	 	 	"eng": "Receives"
  	 	},
  	 	"amount": {
- 	 	 	"trans": "Amount",
+ 	 	 	"trans": "Cantidad",
  	 	 	"eng": "Amount"
  	 	},
  	 	"shield": {
- 	 	 	"trans": "Shield",
+ 	 	 	"trans": "Escudo",
  	 	 	"eng": "Shield"
  	 	},
  	 	"health": {
- 	 	 	"trans": "Health",
+ 	 	 	"trans": "Salud",
  	 	 	"eng": "Health"
  	 	},
  	 	"statusEffect": {
@@ -1847,7 +1847,7 @@
  	 	 	 	"eng": "Stun chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chance of you stunning your enemy when dealing damage, \r\n    causing them not able to respond to your attack",
+ 	 	 	 	"trans": "Posibilidad de aturdir a tu enemigo al infligir daño, \r\n    por lo que no será capaz de responder a tu ataque",
  	 	 	 	"eng": "Chance of you stunning your enemy when dealing damage, \r\n    causing them not able to respond to your attack"
  	 	 	}
  	 	},
@@ -1877,7 +1877,7 @@
  	 	 	 	"eng": "Pocket"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increases inventory capacity",
+ 	 	 	 	"trans": "Aumenta la capacidad del inventario",
  	 	 	 	"eng": "Increases inventory capacity"
  	 	 	}
  	 	},
@@ -1963,11 +1963,11 @@
  	 	},
  	 	"maxHealth": {
  	 	 	"name": {
- 	 	 	 	"trans": "Max Health",
+ 	 	 	 	"trans": "Salud Máxima",
  	 	 	 	"eng": "Max Health"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Maximum health capacity",
+ 	 	 	 	"trans": "Capacidad máxima de salud",
  	 	 	 	"eng": "Maximum health capacity"
  	 	 	}
  	 	},
@@ -1998,7 +1998,7 @@
  	 	 	 	"verb",
  	 	 	 	"amount"
  	 	 	],
- 	 	 	"trans": "You can ${verb} ${amount} times",
+ 	 	 	"trans": "Puedes ${verb} ${amount} veces",
  	 	 	"eng": "You can ${verb} ${amount} times"
  	 	},
  	 	"timeRequiredText": {
@@ -2006,7 +2006,7 @@
  	 	 	 	"verb",
  	 	 	 	"timeStr"
  	 	 	],
- 	 	 	"trans": "Time required to ${verb}: ${timeStr}",
+ 	 	 	"trans": "Tiempo necesario para ${verb}: ${timeStr}",
  	 	 	"eng": "Time required to ${verb}: ${timeStr}"
  	 	}
  	},
@@ -2035,7 +2035,7 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Bolsa Vieja",
  	 	 	 	"eng": "Old Pouch"
  	 	 	}
  	 	},
@@ -2051,7 +2051,7 @@
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Mochila del Explorador",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	}
  	 	},
@@ -2082,11 +2082,11 @@
  	 	 	"vars": [
  	 	 	 	"total"
  	 	 	],
- 	 	 	"trans": "If all of them are sold, you will earn ${total} BitCoins",
+ 	 	 	"trans": "Si todos ellos son vendidos, ganarás ${total} BitCoins",
  	 	 	"eng": "If all of them are sold, you will earn ${total} BitCoins"
  	 	},
  	 	"sellAmountModalTitle": {
- 	 	 	"trans": "How many would you like to sell?",
+ 	 	 	"trans": "Cuántos te gustaría vender?",
  	 	 	"eng": "How many would you like to sell?"
  	 	}
  	},
@@ -2100,7 +2100,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Congratulation, you have leveled up your ${levelName}!",
+ 	 	 	 	"trans": "Felicitaciones, has subido de nivel tu ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
